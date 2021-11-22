@@ -1,5 +1,5 @@
 # git-commits-checker
-A simple shell script to check changes from a specified directoring using 'git log' command.
+A simple utility shell script to check changes from a specified directoring using 'git log' command.
 
 ### Modifications
 In the main part of the script, you can indicate the directories to check for commits:
